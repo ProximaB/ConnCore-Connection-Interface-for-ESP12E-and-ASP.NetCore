@@ -1,0 +1,9 @@
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.deps.json
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.dll
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.pdb
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.csprojResolveAssemblyReference.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.AssemblyInfo.cs
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.dll
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.pdb

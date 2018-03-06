@@ -1,0 +1,4 @@
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.csprojResolveAssemblyReference.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\Cnection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.AssemblyInfo.cs
