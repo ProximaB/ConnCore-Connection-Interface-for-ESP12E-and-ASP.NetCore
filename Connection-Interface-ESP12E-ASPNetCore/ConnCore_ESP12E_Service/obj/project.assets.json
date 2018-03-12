@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj",
       "projectName": "ConnCore_ESP12E_Service",
-      "projectPath": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj",
+      "projectPath": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\obj\\",
+      "outputPath": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

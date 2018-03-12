@@ -3,42 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Hosting;
 
 namespace AspNetCoreService.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        // GET api/values
+        private readonly RandomStringProvider _randomStringProvider;
+        private readonly IHostedService _dataRefreshService;
+
+        public ValuesController (RandomStringProvider randomStringProvider, IHostedService dataRefreshService)
+        {
+            _randomStringProvider = randomStringProvider;
+            _dataRefreshService = dataRefreshService;
+        }
+
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get ()
         {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            //System.Threading.CancellationToken clt = new System.Threading.CancellationToken();
+            //_dataRefreshService.StartAsync(clt);
+            return _randomStringProvider.RandomString;
         }
     }
 }

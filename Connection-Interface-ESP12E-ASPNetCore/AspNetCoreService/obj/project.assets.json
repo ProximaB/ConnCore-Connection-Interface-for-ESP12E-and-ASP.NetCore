@@ -4746,6 +4746,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "ConnCore_ESP12E_Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ConnCore_ESP12E_Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConnCore_ESP12E_Service.dll": {}
+        }
       }
     }
   },
@@ -12526,10 +12536,16 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "ConnCore_ESP12E_Service/1.0.0": {
+      "type": "project",
+      "path": "../ConnCore_ESP12E_Service/ConnCore_ESP12E_Service.csproj",
+      "msbuildProject": "../ConnCore_ESP12E_Service/ConnCore_ESP12E_Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "ConnCore_ESP12E_Service >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12544,11 +12560,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\AspNetCoreService.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\AspNetCoreService.csproj",
       "projectName": "AspNetCoreService",
-      "projectPath": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\AspNetCoreService.csproj",
+      "projectPath": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\AspNetCoreService.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\source\\repos\\Connection-Interface-for-ESP12-E-and-ASP.Net-Core\\Cnection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\obj\\",
+      "outputPath": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\AspNetCoreService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12566,7 +12582,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj": {
+              "projectPath": "C:\\Users\\barte\\source\\repos\\ESP12E_ASP.Net_Core_ConnCore\\Connection-Interface-ESP12E-ASPNetCore\\ConnCore_ESP12E_Service\\ConnCore_ESP12E_Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ConnCore_ESP12E_Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -26,13 +27,15 @@ namespace AspNetCoreService
         {
             services.AddMvc();
 
-            //Other DI registrations;
+            //Other DI registrations;   
 
             // Register Hosted Services
-            services.AddSingleton<IHostedService, GracePeriodManagerService>(); 
-            services.AddSingleton<IHostedService, MyHostedServiceB>();
-            services.AddSingleton<IHostedService, MyHostedServiceC>();
+            //services.AddSingleton<IHostedService, GracePeriodManagerService>(); 
+            //services.AddSingleton<IHostedService, MyHostedServiceB>();
+            //services.AddSingleton<IHostedService, MyHostedServiceC>();
             //...
+            services.AddSingleton<RandomStringProvider>();
+            services.AddSingleton<IHostedService, DataRefreshService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
