@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-namespace AspNetCoreService
+namespace ConnCore_ESP12E_Service.Services
 {
     public abstract class HostedService : IHostedService
     {

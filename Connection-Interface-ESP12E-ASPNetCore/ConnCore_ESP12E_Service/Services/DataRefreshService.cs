@@ -1,15 +1,15 @@
-﻿using Microsoft.Extensions.Hosting;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using ConnCore_ESP12E_Service.Services;
 
-namespace AspNetCoreService
-{
-
+namespace ConnCore_ESP12E_Service.Services
+{   
     public class DataRefreshService : HostedService
     {
         private readonly RandomStringProvider _randomStringProvider;
-        private int co = 0;
 
         public DataRefreshService (RandomStringProvider randomStringProvider)
         {
@@ -20,10 +20,10 @@ namespace AspNetCoreService
         {
             while ( !cancellationToken.IsCancellationRequested )
             {
-                //while(co > 100) return; co++;
                 await _randomStringProvider.UpdateString(cancellationToken);
                 await Task.Delay(TimeSpan.FromSeconds(0.1), cancellationToken);
             }
         }
     }
 }
+

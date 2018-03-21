@@ -1,5 +1,4 @@
-﻿using AspNetCoreService;
-using Microsoft.Extensions.Hosting;
+﻿using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
 using System.Threading;

@@ -18,3 +18,4 @@ C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ES
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Hosting.Abstractions.xml
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.csprojResolveAssemblyReference.cache
+C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\ConnCore_ESP12E_Service\obj\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.csproj.CopyComplete

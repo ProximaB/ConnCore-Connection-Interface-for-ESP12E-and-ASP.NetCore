@@ -11,7 +11,8 @@ C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ES
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\AspNetCoreService.runtimeconfig.dev.json
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\AspNetCoreService.dll
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\AspNetCoreService.pdb
-C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.dll
-C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.pdb
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.dll
 C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.pdb
+C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.dll
+C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\bin\Debug\netcoreapp2.0\ConnCore_ESP12E_Service.pdb
+C:\Users\barte\source\repos\ESP12E_ASP.Net_Core_ConnCore\Connection-Interface-ESP12E-ASPNetCore\AspNetCoreService\obj\Debug\netcoreapp2.0\AspNetCoreService.csproj.CopyComplete

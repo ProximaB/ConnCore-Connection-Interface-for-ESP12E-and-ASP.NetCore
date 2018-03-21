@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AspNetCoreService
+namespace ConnCore_ESP12E_Service.Services
 {
     public class RandomStringProvider
     {
